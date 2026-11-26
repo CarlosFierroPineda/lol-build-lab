@@ -1,0 +1,15 @@
+UPLOAD LoL BUILD LAB TO GITHUB / SUBIR LoL BUILD LAB A GITHUB
+
+1. Go to https://github.com/new / Entra a https://github.com/new
+2. Repository name: lol-build-lab
+3. Description: Independent League of Legends build reference and item validation tool.
+4. Select Public. Do not add a README, .gitignore, or License (they are already included).
+5. Create the repository.
+6. Unzip this package on your PC.
+7. In the new GitHub repository, choose Add file > Upload files.
+8. Drag ALL contents of the LoL-Build-Lab-GitHub folder into the upload area (not the outer folder): index.html, README.md, .gitignore, PROJECT_DESCRIPTION_RIOT.txt, docs/, and this guide.
+9. Commit changes.
+10. Open Settings > Pages > Deploy from a branch > main > /(root) > Save.
+11. Wait for GitHub Pages to publish your URL. It will look like https://YOUR-USERNAME.github.io/lol-build-lab/ .
+
+IMPORTANT / IMPORTANTE: Do not upload any Riot API key. This prototype does not need one. Never place passwords, tokens, or API keys in public files.
